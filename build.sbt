@@ -9,3 +9,5 @@ libraryDependencies ++= Seq(
   "com.github.finagle" %% "finch-circe" % "0.22.0",
   "io.circe" %% "circe-generic" % "0.9.0"
 )
+
+addSbtPlugin("com.heroku" % "sbt-heroku" % "2.1.2")
