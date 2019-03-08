@@ -139,6 +139,6 @@ fabric.properties
 
 \.idea/
 
-project/
+project/target/
 
 target/
